@@ -1,0 +1,20 @@
+What is TACO?
+🌮 is an open image dataset of waste in the wild. It contains photos of litter taken under diverse environments, from tropical beaches to London streets.
+These images are manually labeled and segmented according to a hierarchical taxonomy to train and evaluate object detection algorithms. 
+The best way to know TACO is to explore our dataset.
+
+Why TACO? 
+Humans have been trashing planet Earth from the bottom of Mariana trench to Mount Everest. 
+Every minute, at least 15 tonnes of plastic waste leak into the ocean, that is equivalent to the capacity of one garbage truck. 
+We have all seen the impact of this behaviour to wildlife on images of turtles choking on plastic bags and birds filled with bottle caps. 
+Recent studies have also found microplastics in human stools. These should be kept in the recycling chain not in our food chain. It is time for a revolution.
+
+We believe AI has an important role to play. Think of drones surveying trash, robots picking up litter, 
+anti-littering video surveillance and AR to educate and help humans to separate trash. That is our vision. 
+All of this is now possible with the recent advances of deep learning. However, to learn accurate trash detectors, 
+deep learning needs many annotated images. Enter TACO. While there are a few other trash datasets, we believe these are not enough. 
+Our goal is to take TACO to the next level with the following features: Object segmentation. 
+Typically used bounding boxes are not enough for certain tasks, e.g., robotic grasping Images under free licence. 
+You can do whatever you want with TACO as long as you cite us. Background annotation. 
+TACO covers many environments which are tagged for convenience. Object context tag.
+Not all objects in TACO are strictly litter. Some objects are handheld or not even trash yet. Thus, objects are tagged based on context
